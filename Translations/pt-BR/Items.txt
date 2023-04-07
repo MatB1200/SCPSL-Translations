@@ -3,10 +3,10 @@
 2~Cartão de Supervisor de Pesquisa
 3~Cartão de Diretor de Zona
 4~Cartão de Guarda
-5~Cartão de MTF Privado
+5~Cartão de Recruta MTF
 6~Cartão de Engenheiro de Contenção
-7~Cartão de MTF Sargento
-8~Cartão de MTF Capitão
+7~Cartão de Sargento MTF
+8~Cartão de Capitão MTF
 9~Cartão de Diretor da Instalação
 10~Dispositivo de Acesso da Insurgência do Caos
 11~Cartão nível-O5
@@ -22,22 +22,23 @@
 23~FSP-9
 24~Logicer
 25~Granada Altamente-Explosiva~Boom!
-26~Granada Flashbang~Cega seus inimigos.
+26~Granada de Luz~Cega seus inimigos.
 30~COM-18
 31~SCP-018~Superbola capaz de quicar com extrema eficiência.
 32~SCP-268~Quando usado, torna você temporariamente invisível, à menos que seja interrompido por qualquer interação do usuário.
 33~Adrenalina~Aumenta temporariamente a resistência.
 34~Analgésicos~Trata machucados menores.
-35~Moeda~Você não tem certeza por que deseja carregar isso por aí...
+35~Moeda~Você não tem certeza se deseja carregar isso por aí...
 36~Colete Leve
 37~Colete de Combate
 38~Colete Pesado
-39~.44 Revolver
+39~Revólver .44
 40~AK
 41~Espingarda
 42~Saco de Doces~Um saco contendo os seguintes doces:
 43~SCP-2176~Sua própria Luz Fantasma! Atenção, muito frágil...
 44~SCP-244-A~Um vaso antigo, congelando ao toque. Cria uma grande nuvem de neblina gelada quando colocada.
 45~SCP-244-B~Um vaso antigo, congelando ao toque. Cria uma grande nuvem de neblina gelada quando colocada.
-46~SCP-1853~Melhora as habilidades de manipulação de armas ao custo de maior uso de estamina.
-47~3-X Disruptor de Partículas
+46~SCP-1853~Melhora as habilidades de manipulação de armas.
+47~Disruptor de Partículas 3-X
+48~COM-45
